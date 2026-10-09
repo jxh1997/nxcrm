@@ -1,10 +1,10 @@
-<p align="center"><img src="https://wyz-xyz.oss-cn-huhehaote.aliyuncs.com/2022-07-16/1657940551-778457-frame-1.jpg" width="100%"></p>
+<p align="center"><img src="docs/images/1657940551-778457-frame-1.jpg" width="100%"></p>
 
 <p align="center">
-<a href="http://www.nxime.com"><img src="https://img.shields.io/badge/version-3.2.9-green" alt="Build Status"></a>
-<a href="http://www.nxime.com"><img src="https://img.shields.io/badge/laravel-10.0-%23ef3b2d" alt="Total Downloads"></a>
-<a href="http://www.dcatadmin.com/"><img src="https://img.shields.io/badge/dcatadmin-2.0.0-%234c5ec2" alt="Latest Stable Version"></a>
-<a href="http://www.nxime.com"><img src="https://img.shields.io/badge/MYSQL-8.0-%2300758f" alt="License"></a>
+<a href="http://www.nxime.com"><img src="docs/images/badge-version.svg" alt="Build Status"></a>
+<a href="http://www.nxime.com"><img src="docs/images/badge-laravel.svg" alt="Total Downloads"></a>
+<a href="http://www.dcatadmin.com/"><img src="docs/images/badge-dcatadmin.svg" alt="Latest Stable Version"></a>
+<a href="http://www.nxime.com"><img src="docs/images/badge-MYSQL.svg" alt="License"></a>
 </p>
 
 ## 关于 Nxcrm
@@ -20,15 +20,15 @@ https://crm.demo.nxime.com
 
 ## 系统截图
  ---
- ![](https://wyz-xyz.oss-cn-huhehaote.aliyuncs.com/2022-07-16/1657955894-153994-frame-1.png)
-![](https://wyz-xyz.oss-cn-huhehaote.aliyuncs.com/2022-07-16/1657955779-55971-frame-2.png)
-![](https://wyz-xyz.oss-cn-huhehaote.aliyuncs.com/2022-07-16/1657956032-996617-frame-2.png)
-![](https://wyz-xyz.oss-cn-huhehaote.aliyuncs.com/2022-07-16/1657956865-534180-frame-2.png)
-![](https://wyz-xyz.oss-cn-huhehaote.aliyuncs.com/2022-07-16/1657956285-614775-frame-2.png)
-![](https://wyz-xyz.oss-cn-huhehaote.aliyuncs.com/2022-07-16/1657956583-634749-frame-2.png)
-![](https://wyz-xyz.oss-cn-huhehaote.aliyuncs.com/2022-07-16/1657956708-49788-frame-2.png)
-![](https://wyz-xyz.oss-cn-huhehaote.aliyuncs.com/2022-07-16/1657957094-184481-frame-2.png)
-![](https://wyz-xyz.oss-cn-huhehaote.aliyuncs.com/2022-07-16/1657957855-287145-frame-2.png)
+ ![](docs/images/1657955894-153994-frame-1.png)
+![](docs/images/1657955779-55971-frame-2.png)
+![](docs/images/1657956032-996617-frame-2.png)
+![](docs/images/1657956865-534180-frame-2.png)
+![](docs/images/1657956285-614775-frame-2.png)
+![](docs/images/1657956583-634749-frame-2.png)
+![](docs/images/1657956708-49788-frame-2.png)
+![](docs/images/1657957094-184481-frame-2.png)
+![](docs/images/1657957855-287145-frame-2.png)
 
  ## 安装
  ---
